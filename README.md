@@ -23,8 +23,8 @@
 提供 Android Apk 和 Windows 下載點 直接下再並遊玩
 
 ## Credits
-Game Design & Development: [DavidLai Richard Peilun Jerry]
-Art Design: [Mason]
+- Game Design & Development: DavidLai, Richard, Peilun, Jerry
+- Art Design: Mason
 
 ## 其他資料
 https://drive.google.com/file/d/10s5UkglrsAKhNpfSd5iiAWinDKUK5Blf/view
