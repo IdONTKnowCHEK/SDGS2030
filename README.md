@@ -20,8 +20,16 @@
 
 3. 改變局勢的決策：玩家的行為和決策會影響遊戲局勢的發展，體現了每個人在地球上都扮演著重要的角色。<img width="800" src="https://user-images.githubusercontent.com/86880683/226175490-254ad16d-bd8b-4f67-b1be-7233445912df.png"/>
 
-## 如何使用
-提供 Android Apk 和 Windows 下載點 直接下再並遊玩
+### 遊玩方式
+桌上端：WASD/上下左右移動、空白鍵：跳躍/攻擊、X：攻擊、滑鼠：物件操控
+
+### 影片試玩
+[![qVRpFmWqZYQ](https://img.youtube.com/vi/qVRpFmWqZYQ/0.jpg)](https://www.youtube.com/watch?v=qVRpFmWqZYQ)  
+[影片連結](https://youtu.be/qVRpFmWqZYQ)
+
+## 如何遊玩
+提供 Android Apk 和 Windows 下載點 直接下載並遊玩  
+在Github上遊玩 [GDSC2030](https://idontknowchek.github.io/SDGS2030/)
 
 ## Credits
 - Game Design & Development: DavidLai, Richard, Peilun, Jerry
