@@ -21,7 +21,7 @@
 3. 改變局勢的決策：玩家的行為和決策會影響遊戲局勢的發展，體現了每個人在地球上都扮演著重要的角色。<img width="800" src="https://user-images.githubusercontent.com/86880683/226175490-254ad16d-bd8b-4f67-b1be-7233445912df.png"/>
 
 ### 遊玩方式
-桌上端：WASD/上下左右移動、空白鍵：跳躍/攻擊、X：攻擊、滑鼠：物件操控
+🎮：WASD/上下左右移動、空白鍵：跳躍/攻擊、X：攻擊、滑鼠：物件操控
 
 ### 影片試玩
 [![qVRpFmWqZYQ](https://img.youtube.com/vi/qVRpFmWqZYQ/0.jpg)](https://www.youtube.com/watch?v=qVRpFmWqZYQ)  
