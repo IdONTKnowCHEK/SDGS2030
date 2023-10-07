@@ -21,14 +21,17 @@
 為了達成目的，TRA 需要完成各個任務。
 
 ### 任務
-1. 豐富的遊戲內容：遊戲內包含多個關卡和任務，通過解謎和達成任務來體驗SDGs17理念。<img width="800" src="https://user-images.githubusercontent.com/86880683/226175194-7792be14-87e2-4865-b507-6d55414f10f5.png"/>
+1. **豐富的遊戲內容：遊戲內包含多個關卡和任務，通過解謎和達成任務來體驗SDGs17理念。**  
+<img width="800" src="https://user-images.githubusercontent.com/86880683/226175194-7792be14-87e2-4865-b507-6d55414f10f5.png"/>
 
-2. 動態光源真實感十足：玩家可以身歷其境地體驗到地球的美麗和脆弱性。<img width="800" src="https://user-images.githubusercontent.com/86880683/226175244-2679e3aa-722c-4aeb-857f-8e47588d3146.png"/>
+2. **動態光源真實感十足：玩家可以身歷其境地體驗到地球的美麗和脆弱性。**  
+<img width="800" src="https://user-images.githubusercontent.com/86880683/226175244-2679e3aa-722c-4aeb-857f-8e47588d3146.png"/>
 
-3. 改變局勢的決策：玩家的行為和決策會影響遊戲局勢的發展，體現了每個人在地球上都扮演著重要的角色。<img width="800" src="https://user-images.githubusercontent.com/86880683/226175490-254ad16d-bd8b-4f67-b1be-7233445912df.png"/>
+3. **改變局勢的決策：玩家的行為和決策會影響遊戲局勢的發展，體現了每個人在地球上都扮演著重要的角色。**  
+<img width="800" src="https://user-images.githubusercontent.com/86880683/226175490-254ad16d-bd8b-4f67-b1be-7233445912df.png"/>
 
 ### 遊玩方式
-🎮：WASD/上下左右移動、空白鍵：跳躍/攻擊、X：攻擊、滑鼠：物件操控
+🎮：**WASD/上下左右移動、空白鍵：跳躍/攻擊、X：攻擊、滑鼠：物件操控**
 
 ### 影片試玩
 [![qVRpFmWqZYQ](https://img.youtube.com/vi/qVRpFmWqZYQ/0.jpg)](https://www.youtube.com/watch?v=qVRpFmWqZYQ)  
